@@ -9,7 +9,7 @@ Cria uma nova imagem no sistema carregando um arquivo .gif, .jpg, ou .png válid
 | Nome | Descrição | Tipo | Obrigatório |
 |------|-----------|------|-------------|
 | `file` | Arquivo em .gif, .png, ou .jpg | `file` | Sim |
-| `sub_id` | ID para identificação interna. | `string` | Não |
+| `sub_id` | Alt text para identificação interna. | `string` | Não |
 
 **POST**
 
